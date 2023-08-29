@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Blog
+https://gjisoo.github.io
+</br></br>
 <!--
 **gjisoo/gjisoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
